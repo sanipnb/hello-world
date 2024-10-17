@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello-world"
+  site-url: "https://sanipnb.github.io/hello-world"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/sanipnb/hello-world"
